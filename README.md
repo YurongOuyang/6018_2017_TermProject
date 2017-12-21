@@ -8,10 +8,10 @@ Attribute Information:
 * sepal width in cm
 * petal length in cm
 * petal width in cm
-* class: 
-        -- Iris Setosa
-        -- Iris Versicolour
-        -- Iris Virginica
+* class 
+		* Iris Setosa
+		* Iris Versicolour
+		* Iris Virginica
 	  
 It was used for statistical analysis and k-means clustering. The figures is showed in PyQt5. 
 
