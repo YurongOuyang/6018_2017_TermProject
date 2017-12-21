@@ -4,14 +4,15 @@
 
 The iris dataset sets consists of 3 different types of irises¡¯ (Setosa, Versicolour, and Virginica) petal and sepal length, stored in a 150x4 numpy.ndarray. 
 Attribute Information:
-   * sepal length in cm
-   * sepal width in cm
-   * petal length in cm
-   * petal width in cm
-   * class: 
-      -- Iris Setosa
-      -- Iris Versicolour
-      -- Iris Virginica
+* sepal length in cm
+* sepal width in cm
+* petal length in cm
+* petal width in cm
+* class: 
+        -- Iris Setosa
+        -- Iris Versicolour
+        -- Iris Virginica
+	  
 It was used for statistical analysis and k-means clustering. The figures is showed in PyQt5. 
 
 ### Files
